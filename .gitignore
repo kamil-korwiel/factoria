@@ -3,13 +3,9 @@
 *.pot
 *.pyc
 __pycache__
-<<<<<<< HEAD
-factoria/__pycache__
-=======
 __pycache__/
 factoria/__pycache__
 factoria/__pycache__/
->>>>>>> 1f5b20e654f004e79b329a068c7fb26cc1ae3e8e
 db.sqlite3
 media
 
