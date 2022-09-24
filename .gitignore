@@ -5,7 +5,9 @@
 __pycache__
 __pycache__/
 factoria/__pycache__
+factoria/apps/__pycache__
 factoria/__pycache__/
+factoria/apps/__pycache__/
 db.sqlite3
 media
 
