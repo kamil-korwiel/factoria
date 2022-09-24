@@ -18,6 +18,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     #Written Apps
     'website',
+    'products.apps.ProductsConfig',
     #Django Apps
     'django.contrib.admin',
     'django.contrib.auth',
@@ -25,6 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
