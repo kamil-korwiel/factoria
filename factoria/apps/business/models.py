@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-class Busines(models.Model):
+class Business(models.Model):
     NIP = models.CharField(max_length=13)
     name = models.CharField(max_length=255)
     owner = models.IntegerField()

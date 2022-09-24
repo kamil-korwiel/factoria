@@ -139,4 +139,4 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 # Migtations
-factoria/apps/busines/migrations/
+factoria/apps/business/migrations/

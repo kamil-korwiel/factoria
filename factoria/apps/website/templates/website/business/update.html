@@ -5,7 +5,7 @@
     <title>Update Company</title>
 </head>
 <body>
-    <form method="POST" action="{% url 'update' busines.id %}">
+    <form method="POST" action="{% url 'update' business.id %}">
         {% csrf_token %}
         <div>
             <label>Name: </label>

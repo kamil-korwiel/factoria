@@ -18,14 +18,14 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     #Written Apps
     'website',
+    'business',
     #Django Apps
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
-    'busines',
+    'django.contrib.staticfiles',   
 ]
 
 MIDDLEWARE = [
