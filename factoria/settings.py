@@ -19,6 +19,7 @@ INSTALLED_APPS = [
     #Written Apps
     'website',
     'products.apps.ProductsConfig',
+    'business',
     #Django Apps
     'django.contrib.admin',
     'django.contrib.auth',
