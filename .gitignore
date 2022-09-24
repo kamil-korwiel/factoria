@@ -140,3 +140,6 @@ GitHub.sublime-settings
 .history
 # Migtations
 factoria/apps/business/migrations/
+.vscode/
+factoria/__pycache__/
+
